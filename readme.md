@@ -27,24 +27,29 @@ Load a codebase. The most complex classes emerge instantly as giant red planets 
 - Single-click expand, search, filter
 - Jump to definition
 - Complexity indicators per node
+<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/96c68ffa-0a3e-46dd-bed4-7429199e4cc1" />
 
 ### 🧠 Mind Map
 - Radial and hierarchical layout modes
 - Structural relationships at a glance
 - Zoom, pan, fit-to-view
 - Inheritance and call edges
+<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/5660d889-e286-46bf-9984-5e7398b64951" />
 
 ### 🔗 Network Graph
 - Force-directed dependency map
 - Cross-module call relationships
 - Hierarchical, tree, force and circular layouts
 - Shows who calls who across the entire codebase
+<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/5dee44ad-44e9-4ecd-bd79-39be3484ebc0" />
 
 ### 📊 UML Class Diagram
 - Auto-generated class diagrams
 - Inheritance chains, attributes, methods
 - Auto, grid and hierarchical layout
 - Export to PostScript/EPS
+<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/027cf907-541a-418e-90d0-8105033f0079" />
+
 
 ### 🌌 Code Cosmos *(flagship)*
 - Real-time solar system visualization via pygame + PIL
@@ -57,6 +62,8 @@ Load a codebase. The most complex classes emerge instantly as giant red planets 
 - **Asteroid dots** = standalone functions
 - Pan, zoom, hover tooltips, click to select
 - Runs at 30fps embedded inside the tkinter UI
+<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/1974a656-2325-470e-aee6-33b4ef3f24a2" />
+
 
 ---
 
